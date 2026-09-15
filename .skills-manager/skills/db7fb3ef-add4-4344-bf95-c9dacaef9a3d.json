@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db7fb3ef-add4-4344-bf95-c9dacaef9a3d",
+  "path": "azure-compliance",
+  "path_key": "azure-compliance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06423d6d-2364-4b58-9e64-22b863469611",
+  "path": "docker-expert",
+  "path_key": "docker-expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

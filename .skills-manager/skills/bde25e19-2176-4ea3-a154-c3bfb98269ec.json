@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bde25e19-2176-4ea3-a154-c3bfb98269ec",
+  "path": "writing-beats",
+  "path_key": "writing-beats",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32df2da9-6660-4a8b-b1e2-75d4227ebb3a",
+  "path": "azure-prepare",
+  "path_key": "azure-prepare",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

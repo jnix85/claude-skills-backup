@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80d21d56-9cc1-495d-bd21-cf080edfa88b",
+  "path": "azure-app-onboard",
+  "path_key": "azure-app-onboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

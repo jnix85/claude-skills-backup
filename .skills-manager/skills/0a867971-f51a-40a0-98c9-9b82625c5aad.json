@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a867971-f51a-40a0-98c9-9b82625c5aad",
+  "path": "azure-deploy",
+  "path_key": "azure-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

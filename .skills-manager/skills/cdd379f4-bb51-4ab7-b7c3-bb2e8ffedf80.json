@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdd379f4-bb51-4ab7-b7c3-bb2e8ffedf80",
+  "path": "langfuse",
+  "path_key": "langfuse",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

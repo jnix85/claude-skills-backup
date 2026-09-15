@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21c2a7f0-f9cb-4559-b65f-a17eb1274c13",
+  "path": "setup-pre-commit",
+  "path_key": "setup-pre-commit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

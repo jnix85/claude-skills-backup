@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2e1a390-7007-4253-872b-17ed1787ccb3",
+  "path": "bright-data-mcp",
+  "path_key": "bright-data-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

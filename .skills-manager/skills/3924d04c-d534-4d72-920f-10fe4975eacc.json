@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3924d04c-d534-4d72-920f-10fe4975eacc",
+  "path": "azure-reliability",
+  "path_key": "azure-reliability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

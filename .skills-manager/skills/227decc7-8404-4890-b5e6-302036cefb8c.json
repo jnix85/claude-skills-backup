@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "227decc7-8404-4890-b5e6-302036cefb8c",
+  "path": "brightdata-local-search",
+  "path_key": "brightdata-local-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

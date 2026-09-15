@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55022087-94c0-4db6-9337-50d7f613a40c",
+  "path": "azure-enterprise-infra-planner",
+  "path_key": "azure-enterprise-infra-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c65956dc-b2b2-4ddb-9252-7aa513468459",
+  "path": "data-feeds",
+  "path_key": "data-feeds",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d250269b-7c5a-401f-a61c-c64fd73169de",
+  "path": "senior-security",
+  "path_key": "senior-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

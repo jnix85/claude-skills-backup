@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "041ba2bb-2d00-4701-80a2-70ec1f1fc040",
+  "path": "Email Composer",
+  "path_key": "email composer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

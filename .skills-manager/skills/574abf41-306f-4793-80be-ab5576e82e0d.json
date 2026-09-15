@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "574abf41-306f-4793-80be-ab5576e82e0d",
+  "path": "python-appservice-deploy",
+  "path_key": "python-appservice-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

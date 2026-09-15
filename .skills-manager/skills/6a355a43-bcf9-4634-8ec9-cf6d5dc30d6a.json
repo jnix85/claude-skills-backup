@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6a355a43-bcf9-4634-8ec9-cf6d5dc30d6a",
+  "path": "vulnerability-scanner",
+  "path_key": "vulnerability-scanner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

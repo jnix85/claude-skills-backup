@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "65f2cba0-a6df-4a3b-86f8-72d8571cd444",
+  "path": "SEO Optimizer",
+  "path_key": "seo optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

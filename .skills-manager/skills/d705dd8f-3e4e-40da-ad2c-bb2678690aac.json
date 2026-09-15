@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d705dd8f-3e4e-40da-ad2c-bb2678690aac",
+  "path": "screenpipe-api",
+  "path_key": "screenpipe-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

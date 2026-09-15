@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e60284f-4f67-4cfb-acab-c1fb16053815",
+  "path": "senior-architect",
+  "path_key": "senior-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

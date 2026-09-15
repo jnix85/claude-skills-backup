@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2fb7b2d7-cd04-4b97-a252-19a529c34e27",
+  "path": "memory-evolution",
+  "path_key": "memory-evolution",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

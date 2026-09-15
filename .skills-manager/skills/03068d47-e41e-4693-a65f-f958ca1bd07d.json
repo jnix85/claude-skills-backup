@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "03068d47-e41e-4693-a65f-f958ca1bd07d",
+  "path": "senior-devops",
+  "path_key": "senior-devops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

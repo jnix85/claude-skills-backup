@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19ab0ac5-1f7d-4533-ab68-fba754a97c42",
+  "path": "azure-app-onboard-prereq",
+  "path_key": "azure-app-onboard-prereq",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

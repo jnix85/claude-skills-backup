@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af955c6b-98a4-477d-9a2d-ea21250b600d",
+  "path": "azure-kubernetes",
+  "path_key": "azure-kubernetes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

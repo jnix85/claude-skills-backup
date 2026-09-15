@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92bc81bb-826a-4fa0-ae0f-56b0b1297d7e",
+  "path": "agents-sdk",
+  "path_key": "agents-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

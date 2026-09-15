@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c424be72-7693-435d-a0a2-5869d0b369fa",
+  "path": "senior-backend",
+  "path_key": "senior-backend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "565d891f-8034-4472-8b90-053d8c50b3c6",
+  "path": "cloudflare-one-migrations",
+  "path_key": "cloudflare-one-migrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

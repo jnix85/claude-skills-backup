@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bcf28bdd-5f72-43f8-8d4a-b4e349344022",
+  "path": "cloudflare",
+  "path_key": "cloudflare",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

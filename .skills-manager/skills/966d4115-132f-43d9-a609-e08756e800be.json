@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "966d4115-132f-43d9-a609-e08756e800be",
+  "path": "turnstile-spin",
+  "path_key": "turnstile-spin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

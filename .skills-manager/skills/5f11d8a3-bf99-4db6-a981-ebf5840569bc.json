@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5f11d8a3-bf99-4db6-a981-ebf5840569bc",
+  "path": "azure-validate",
+  "path_key": "azure-validate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c3ca220-19a0-475b-8661-435beae7de6b",
+  "path": "entra-agent-id",
+  "path_key": "entra-agent-id",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

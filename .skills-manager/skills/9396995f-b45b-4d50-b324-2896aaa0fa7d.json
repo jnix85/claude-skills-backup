@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9396995f-b45b-4d50-b324-2896aaa0fa7d",
+  "path": "azure-upgrade",
+  "path_key": "azure-upgrade",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

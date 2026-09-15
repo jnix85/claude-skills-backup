@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a36a253-21ed-4347-b90b-14d65f76c210",
+  "path": "azure-cost",
+  "path_key": "azure-cost",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

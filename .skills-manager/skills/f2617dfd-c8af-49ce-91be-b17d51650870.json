@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2617dfd-c8af-49ce-91be-b17d51650870",
+  "path": "ui-design-system",
+  "path_key": "ui-design-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

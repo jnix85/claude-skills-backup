@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bb0db977-8e75-401a-a388-532ed8208f35",
+  "path": "senior-fullstack",
+  "path_key": "senior-fullstack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

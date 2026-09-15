@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a2f6ce4-c03b-4130-b829-c729cb6fc146",
+  "path": "azure-quotas",
+  "path_key": "azure-quotas",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

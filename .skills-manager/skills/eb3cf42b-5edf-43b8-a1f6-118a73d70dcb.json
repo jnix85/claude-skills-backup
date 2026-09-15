@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb3cf42b-5edf-43b8-a1f6-118a73d70dcb",
+  "path": "sandbox-stable",
+  "path_key": "sandbox-stable",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

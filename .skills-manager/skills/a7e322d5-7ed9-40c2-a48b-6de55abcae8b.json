@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7e322d5-7ed9-40c2-a48b-6de55abcae8b",
+  "path": "bright-data-best-practices",
+  "path_key": "bright-data-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

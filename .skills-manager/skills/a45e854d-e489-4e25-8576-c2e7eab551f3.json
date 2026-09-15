@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a45e854d-e489-4e25-8576-c2e7eab551f3",
+  "path": "megalinter-fix",
+  "path_key": "megalinter-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

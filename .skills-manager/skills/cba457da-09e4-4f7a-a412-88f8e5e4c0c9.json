@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cba457da-09e4-4f7a-a412-88f8e5e4c0c9",
+  "path": "senior-data-engineer",
+  "path_key": "senior-data-engineer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

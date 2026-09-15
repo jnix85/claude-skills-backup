@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0dbf862-2458-4bde-9bd0-64c425d0247b",
+  "path": "memory-audit",
+  "path_key": "memory-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

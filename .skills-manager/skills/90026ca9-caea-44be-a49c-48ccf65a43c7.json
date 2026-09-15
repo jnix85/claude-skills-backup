@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "90026ca9-caea-44be-a49c-48ccf65a43c7",
+  "path": "appinsights-instrumentation",
+  "path_key": "appinsights-instrumentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

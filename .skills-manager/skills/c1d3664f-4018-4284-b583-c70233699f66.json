@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1d3664f-4018-4284-b583-c70233699f66",
+  "path": "azure-compute",
+  "path_key": "azure-compute",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7d5d698-320a-41f1-aae2-01ca1ac156a0",
+  "path": "azure-diagnostics",
+  "path_key": "azure-diagnostics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

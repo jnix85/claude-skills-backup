@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e2b55dee-7743-4e05-a9ec-66e0620a74fc",
+  "path": "memory-intake",
+  "path_key": "memory-intake",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

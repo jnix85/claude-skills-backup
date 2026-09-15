@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "48d88283-acab-4f05-896f-d1152deefebe",
+  "path": "azure-aigateway",
+  "path_key": "azure-aigateway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
