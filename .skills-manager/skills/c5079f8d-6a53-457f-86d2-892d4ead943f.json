@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5079f8d-6a53-457f-86d2-892d4ead943f",
+  "path": "design-taste-frontend",
+  "path_key": "design-taste-frontend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "leonxlnx/taste-skill/design-taste-frontend",
+    "subpath": "skills/taste-skill",
+    "branch": null
+  }
+}

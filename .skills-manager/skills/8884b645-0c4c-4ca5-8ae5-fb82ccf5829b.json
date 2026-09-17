@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8884b645-0c4c-4ca5-8ae5-fb82ccf5829b",
+  "path": "setup-pre-commit-2",
+  "path_key": "setup-pre-commit-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/setup-pre-commit",
+    "subpath": "skills/misc/setup-pre-commit",
+    "branch": null
+  }
+}

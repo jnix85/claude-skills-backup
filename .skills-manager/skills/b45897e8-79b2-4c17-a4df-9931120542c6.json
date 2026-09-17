@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b45897e8-79b2-4c17-a4df-9931120542c6",
+  "path": "writing-shape-2",
+  "path_key": "writing-shape-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/writing-shape",
+    "subpath": "skills/in-progress/writing-shape",
+    "branch": null
+  }
+}

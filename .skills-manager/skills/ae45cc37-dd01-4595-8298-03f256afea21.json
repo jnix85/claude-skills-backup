@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae45cc37-dd01-4595-8298-03f256afea21",
+  "path": "to-spec-2",
+  "path_key": "to-spec-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/to-spec",
+    "subpath": "skills/engineering/to-spec",
+    "branch": null
+  }
+}
